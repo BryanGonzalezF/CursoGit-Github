@@ -3,3 +3,7 @@ espero poder aprender sobre esto y entender que no es una buena practica
 
 
 experimento
+
+
+
+estamos haciendo el experimento del rebase luego de unos pequeños incovenientes
